@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducing Entity Framework", "Introducing Entity Framework\Introducing Entity Framework.csproj", "{BDC4736E-3978-4476-807F-679C17434336}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroducingEntityFramework", "Introducing Entity Framework\IntroducingEntityFramework.csproj", "{BDC4736E-3978-4476-807F-679C17434336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
